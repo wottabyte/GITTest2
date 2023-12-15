@@ -1,5 +1,5 @@
 # use to add a theme
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 
 plugins:
   - jekyll-relative-links
